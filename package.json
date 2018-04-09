@@ -1,6 +1,6 @@
 {
-  "name": "mailgen",
-  "version": "2.0.3",
+  "name": "better-email",
+  "version": "1.0.0",
   "description": "Generates clean, responsive HTML e-mails for sending transactional mail.",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eladnava/mailgen.git"
+    "url": "https://github.com/yaacovsteinhauer/mailgen.git"
   },
-  "author": "Elad Nava",
+  "author": "Yaacov Steinhauer",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/eladnava/mailgen/issues"
+    "url": "https://github.com/yaacovsteinhauer/mailgen.git"
   },
-  "homepage": "https://github.com/eladnava/mailgen#readme",
+  "homepage": "https://github.com/yaacovsteinhauer/mailgen.git",
   "dependencies": {
     "ejs": "^2.5.8",
     "juice": "^4.2.3"
